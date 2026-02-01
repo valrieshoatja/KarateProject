@@ -3,8 +3,8 @@
     "endpoints": {
       "allBreeds": "/breeds/list/all",
       "randomImage": "/breeds/image/random",
-      "breedImages": "/breed/{breed}/images",
-      "subBreedList": "/breed/{breed}/list"
+      "breedImages": "/breed/",
+      "subBreedList": "/breed/"
     },
     "validBreeds": ["hound", "affenpinscher"],
     "invalidBreed": "invalidbreed",
